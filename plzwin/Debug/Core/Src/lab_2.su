@@ -1,0 +1,3 @@
+lab_2.c:13:7:Settimer1	16	static
+lab_2.c:17:7:Settimer2	16	static
+lab_2.c:21:7:TimerRun	4	static
